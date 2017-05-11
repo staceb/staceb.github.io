@@ -2,7 +2,17 @@
 
 <div class="table-wrapper">
 <table>
-<thead><tr><th></th><th scope=col>ID</th><th scope=col>City</th><th scope=col>Province</th><th scope=col>Italians</th><th scope=col>Population</th><th scope=col>Percentage</th><th scope=col>Lat</th><th scope=col>Lon</th></tr></thead>
+<thead><tr>
+<th scope=col>ID</th>
+<th scope=col>City</th>
+<th scope=col>Province</th>
+<th scope=col>Italians</th>
+<th scope=col>Population</th>
+<th scope=col>Percentage</th>
+<th scope=col>Lat</th>
+<th scope=col>Lon</th>
+</tr>
+</thead>
 <tbody>
 	<tr><th scope=row>14</th><td>14              </td><td>Bolton          </td><td>Ontario         </td><td>  3030          </td><td>  25954         </td><td>11.7            </td><td>43.52           </td><td>-79.44          </td></tr>
 	<tr><th scope=row>5</th><td> 5              </td><td>St. Catharines  </td><td>Ontario         </td><td>  9915          </td><td> 133113         </td><td> 7.5            </td><td>43.11           </td><td>-79.14          </td></tr>

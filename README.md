@@ -1,4 +1,4 @@
-![image](https://img.shields.io/npm/dt/@altiva/altiva.svg)
+
 
 
 # staceb.github.io
